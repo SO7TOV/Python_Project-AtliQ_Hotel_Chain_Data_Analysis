@@ -6,12 +6,12 @@ AtliQ Grands a hotel chain company which runs many 5 star hotels in different ci
 
 The dataset which AtliQ has provided have information about their day to day bookings from various hotels like (AtliQ seasons, AtliQ palace, etc.), different types of rooms ranging from standard to presidential. Also, not only they accept booking from their website but also from third party websites, offline bookings, etc. All this information is gathered in one database which contains many csv files like:
 
-#### 1.dim_date.csv
-#### 2.dim_hotels.csv
-#### 3.dim_rooms.csv
-#### 4.fact_bookings.csv
-#### 5.new_data_august.csv
-#### 6.fact_aggregated_bookings.csv
+1.dim_date.csv
+2.dim_hotels.csv
+3.dim_rooms.csv
+4.fact_bookings.csv
+5.new_data_august.csv
+6.fact_aggregated_bookings.csv
 
 ## Data Analytics Pipeline : 
 
