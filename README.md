@@ -1,6 +1,6 @@
 # Python_Project-AtliQ_Hotel_Chain_Data_Analysis
 
-## Problem Statement 
+## Problem Statement:
 
 AtliQ Grands a hotel chain company which runs many 5 star hotels in different cities of india. They have been in this industry for around 20 years. AtliQ Grands are facing a major challenge from their competitors, they are losing their revenue and marketshare.So, AtliQ management has decided to onboard data analytics and they want to inculde data informed decision making to improve their revenue and marketshare
 
@@ -13,7 +13,7 @@ The dataset which AtliQ has provided have information about their day to day boo
 5.new_data_august.csv
 6.fact_aggregated_bookings.csv
 
-## Data Analytics Pipeline : 
+## Data Analytics Pipeline:
 
 ###  Understand Business problems >>>> Data collection and understanding >>>> Data cleaning and exploration >>>> Data transformation >>>> Collect insights
 
